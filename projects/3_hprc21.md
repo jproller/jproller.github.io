@@ -2,7 +2,7 @@
 layout: post
 title: HPRC 2020-21
 description: 2021 NASA Student Launch Initiative
-image: assets/images/hprc21.jpg
+image: assets/images/hprc20.jpg
 nav-menu: true
 ---
 
