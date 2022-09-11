@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Elements
+title: Resum2e
 image: assets/images/pic01.jpg
-nav-menu: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
