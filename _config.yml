@@ -1,10 +1,10 @@
 # site settings
-title: Jacob
+title: Jake
 subtitle: Roller
 email:
 description: I'm an undergraduate student at Worcester Polytechnic Institute studying Aerospace Engineering, graduating in March 2023.
 # An undergraduate student at Worcester Polytechnic Institute graduating in March 2023 with a degree in Aerospace Engineering with a focus in Astronautical Engineering and a minor in Electrical Engineering. I'm passionate about rocketry and space systems and am currently seeking an entry level engineering position in the field.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
