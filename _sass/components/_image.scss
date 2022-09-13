@@ -50,6 +50,28 @@ img {
 			}
 		}
 
+    &.fit-small {
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 100%;
+
+			img {
+				width: calc(min(100%, 500pt));
+        margin: auto;
+			}
+		}
+
+    &.fit-med {
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 100%;
+
+			img {
+				width: calc(min(100%, 750pt));
+        margin: auto;
+			}
+		}
+
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
