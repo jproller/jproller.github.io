@@ -2,7 +2,7 @@
 layout: post
 title: Switching PSU
 description: Design of a switching power supply
-image: assets/images/polaris.jpg
+image: assets/images/psu.png
 nav-menu: true
 ---
 
