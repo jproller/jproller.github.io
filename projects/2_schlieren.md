@@ -4,7 +4,7 @@ title: Schlieren Imaging
 description: Visualizing optical density gradients
 image: assets/images/schlieren.png
 nav-menu: true
-dates: "05/2020 – Present"
+dates: "05/2018 – 04/2020"
 ---
 
 Schlieren allows us to visualize the difference in optical densities caused by a variety of phenomena. There are multiple types of Schlieren that use lenses, mirrors, and even just the background noise of an image but the type that I’ve set up (and seems to be most common outside of labs) uses a single parabolic mirror along with a point light source, knife edge, and a camera with a telephoto lens. The setup is fairly simple, consisting of the light source and knife edge both twice the focal length away from the mirror (with the knife edge cutting off half of the light) and the camera directly behind the knife edge, viewing the mirror and observation area. I’ve made a simplified diagram of the system below.
