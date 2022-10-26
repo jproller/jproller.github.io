@@ -1,6 +1,6 @@
 <head>
 	<title>{% if page.title != "Home" %}{{ page.title }} | {% endif %}{{ site.title }} {{ site.subtitle }}</title>
-	<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	<link rel="icon" type="image/png" href="{{ "assets/images/favicon.png" | relative_url }}">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
