@@ -4,7 +4,7 @@ title: HPRC 2021-22
 description: 2022 Spaceport America Cup
 image: assets/images/hprc22.jpg
 nav-menu: true
-dates: "08/2021 – 06/2022"
+dates: "08/2021 – 07/2022"
 ---
 
 As Payload Division Lead during the 2021–22 academic year, I led a team of ~30 students to create an autonomous, folding-arm search and rescue quadcopter to be launched in and deployed from WPI’s High Power Rocketry Club launch vehicle for the 2022 Spaceport America Cup. As this was the team’s first year competing in the Spaceport America Cup and as such, we overcame significant challenges which come from switching competitions. Additionally, coming out of the pandemic, the team saw its largest growth yet, from the previous year’s 80 members to just over 130, requiring better management and planning practices.
