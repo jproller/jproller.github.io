@@ -2,7 +2,7 @@
 title: Jake
 subtitle: Roller
 email:
-description: I'm passionate about rocketry and space systems and am currently working at Astra on test stand development for in-space propulsion. I graduated from Worcester Polytechnic Institute in March 2023 with a degree in Aerospace Engineering focusing on Astronautical Engineering and a minor in Electrical Engineering. Browse through each project to learn more!
+description: I'm passionate about rocketry and space systems and am currently working at Astra doing avionics test engineering for in-space propulsion. I graduated from Worcester Polytechnic Institute in March 2023 with a degree in Aerospace Engineering focusing on Astronautical Engineering and a minor in Electrical Engineering. Browse through each project to learn more!
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Jake Roller
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 9
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands

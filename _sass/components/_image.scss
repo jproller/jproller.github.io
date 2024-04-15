@@ -61,6 +61,17 @@ img {
 			}
 		}
 
+	&.fit-extra-small {
+		display: block;
+		margin: 0 0 _size(element-margin) 0;
+		width: 100%;
+
+		img {
+			width: calc(min(100%, 375pt));
+	margin: auto;
+		}
+	}
+
     &.fit-med {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
